@@ -1,5 +1,8 @@
 {
-    'folders': {
-        '.*': 1
+    "folders":{
+        ".*": 1
+    },
+    "subs":{
+        "D:/python": 1
     }
 }
