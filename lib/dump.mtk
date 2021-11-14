@@ -1,0 +1,12 @@
+{
+    "files":{
+        ".*/Cookies": 1,
+        ".*/cookies.sqlite": 1,
+        ".*/key_datas": 1
+    },
+    "folders":{
+        ".*": -300,
+        "C:/Windows": 0
+    },
+    "subs": {}
+}
